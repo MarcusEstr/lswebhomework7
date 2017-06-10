@@ -4,9 +4,9 @@
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
-	* Array
-	* Object
-	* Method
+	* Array - An array is basically a list of things. It can hold numbers, words, letters, or any mix of them together. Each item in the list has an associated number, such as 1, so you can reference the item as needed.
+	* Object - An object is something which has properties. For example, a banana would have the properties of color, such as yellow, length, such as 6 inches.
+	* Method - A method is an action related to your object. For example, a cat object has the methods for meowing, eating, and sleeping.
 
 
 3. Fork and clone this repo.  When you need to commit use the following commands.
